@@ -11,7 +11,6 @@ print("""Welcome to the adventure! Let's begin!
 
 You are boarding a flight to Fiji for vacation. A weird man approaches you, asking you to 'deliver the package.'
 Will you accept his offer? (Yes/No)
-
 """)
 ans1 = input("//")
 if ans1 in yesans:
